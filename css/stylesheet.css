@@ -5,7 +5,7 @@ body {
     display: flex;
     margin: 0 auto;
     width: min(900px, 80vw);
-    height: min(900px, 80vh);
+    height: min(900px, 60vh);
     overflow: auto;
     background-color: #9FBBE3;
     padding: 10px;
